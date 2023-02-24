@@ -66,7 +66,7 @@ func definedMap() {
 		}
 
 	}
-
+//fft
 }
 
 // a function containing states in Nigeria and their capitals
